@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[12],{288:function(n,t,e){"use strict";e.r(t);var l={name:"IndexPage",comments:{NuxtTaxi:e(278).default}},o=e(42),component=Object(o.a)(l,(function(){return(0,this._self._c)("NuxtTaxi")}),[],!1,null,null,null);t.default=component.exports;installComponents(component,{NuxtTaxi:e(278).default})}}]);
